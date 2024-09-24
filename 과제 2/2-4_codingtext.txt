@@ -1,0 +1,19 @@
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int solution(int a, int b) {
+    int answer = 0;
+    string afirst = to_string(a) + to_string(b);
+    string bfirst = to_string(b) + to_string(a);
+    
+    if(stoi(afirst) >= stoi(bfirst)){
+        answer = stoi(afirst);
+    }
+    else{
+        answer = stoi(bfirst);
+    }
+    
+    return answer;
+}
