@@ -1,0 +1,14 @@
+﻿  Glim_repoDlg.cpp
+C:\Users\HyeokJun\source\repos\Glim_repo\Glim_repo\Glim_repoDlg.cpp(363,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Glim_repoDlg.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\HyeokJun\source\repos\Glim_repo\Glim_repo\Glim_repoDlg.cpp(364,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Glim_repoDlg.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\HyeokJun\source\repos\Glim_repo\Glim_repo\Glim_repoDlg.cpp(367,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Glim_repoDlg.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\HyeokJun\source\repos\Glim_repo\Glim_repo\Glim_repoDlg.cpp(368,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Glim_repoDlg.cpp'을(를) 컴파일하는 중)
+  
+  Glim_repo.vcxproj -> C:\Users\HyeokJun\source\repos\Glim_repo\x64\Debug\Glim_repo.exe
